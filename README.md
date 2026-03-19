@@ -1,70 +1,71 @@
-# 👋 Hi, I'm Piyush
-
-📊 Data Analyst | 📈 Turning data into insights | 🧠 Learning AI & Analytics
-
----
-
-## 🚀 About Me
-
-- 📊 Passionate about **data analysis and visualization**
-- 🔍 Skilled in extracting insights from raw data
-- 🧠 Learning **AI, analytics, and data-driven decision making**
-- 💡 Interested in solving real-world problems using data
+<h1 align="center">Hi 👋, I'm Piyush</h1>
+<h3 align="center">📊 Data Analyst | 💻 Full Stack Developer | 🚀 Building AI Tools</h3>
 
 ---
 
-## 🛠️ Skills & Tools
+<img align="right" alt="coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-**Languages**
-- Python
-- SQL
+### 🧠 About Me
 
-**Data Analysis**
-- Pandas
-- NumPy
-
-**Visualization**
-- Matplotlib
-- Seaborn
-- Power BI / Tableau (if you use)
-
-**Other Tools**
-- Excel
-- Jupyter Notebook
-- Git & GitHub
+- 🔭 Currently working on **DevStack – AI Debugging Assistant**
+- 📊 Passionate about **data analysis & visualization**
+- 💡 Love solving real-world problems using **data + AI**
+- 🌱 Learning **advanced analytics & machine learning**
+- ⚡ Focused on building **impactful projects**
 
 ---
 
-## 📂 Featured Work
+### 🛠️ Tech Stack
 
-### 📊 DevStack – AI Debugging Assistant
-Analyzes code errors and provides structured debugging insights using AI.
+#### 💻 Programming & Databases
+<p>
+<img src="https://skillicons.dev/icons?i=python,js,mongodb,mysql" />
+</p>
 
-👉 [View Project](https://github.com/Piyush-hacker/DevStack-AI-Debugging-Assistant)
+#### 📊 Data Analysis & Visualization
+<p>
+<img src="https://skillicons.dev/icons?i=python" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=python&logoColor=black"/>
+<img src="https://img.shields.io/badge/Seaborn-2E4C6D?style=for-the-badge"/>
+</p>
 
----
-
-## 📊 GitHub Stats
-
-![Piyush's GitHub stats](https://github-readme-stats.vercel.app/api?username=Piyush-hacker&show_icons=true&theme=default)
-
----
-
-## 📫 Connect With Me
-
-- GitHub: https://github.com/Piyush-hacker
-- LinkedIn: https://www.linkedin.com/in/piyush-nitnaware-074498231/
-
----
-
-## ⚡ What I’m Working On
-
-- Improving data analysis skills  
-- Building data-driven projects  
-- Exploring AI in analytics  
+#### ⚙️ Tools & Platforms
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+</p>
 
 ---
 
-## 📌 Fun Fact
+### 🚀 Featured Project
 
-I enjoy finding patterns in data and turning them into meaningful insights.
+#### 🔥 DevStack – AI Debugging Assistant
+AI-powered tool that analyzes code errors and provides explanations, fixes, and improved code.
+
+👉 <a href="https://github.com/Piyush-hacker/DevStack-AI-Debugging-Assistant">View Project</a>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Piyush-hacker&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Piyush-hacker&theme=tokyonight" />
+</p>
+
+---
+
+### 📫 Connect With Me
+
+<p>
+<a href="https://github.com/Piyush-hacker"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
+
+---
+
+### ⚡ Fun Fact
+
+I enjoy turning raw data into meaningful insights and building tools that actually help developers.
