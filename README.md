@@ -53,7 +53,7 @@ Analyzes code errors and provides structured debugging insights using AI.
 ## 📫 Connect With Me
 
 - GitHub: https://github.com/Piyush-hacker
-- LinkedIn: (add your link)
+- LinkedIn: https://www.linkedin.com/in/piyush-nitnaware-074498231/
 
 ---
 
